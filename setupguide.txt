@@ -1,5 +1,5 @@
 Run setup.exe from the System folder
 
-then after it is complete, head to the root and run BaconOS.bat as Administrator
+then after it is complete, head to the root and run BaconOS.bat
 
 then type help if u need help with commands
